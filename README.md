@@ -1,7 +1,6 @@
 # LaTex-professional-template
-A template for building a professional resume and cover letter in LaTex
+A collection of templates for building a professional document in LaTex
 
-The article <a href='https://medium.com/@sohitmiglani/a-very-easy-technique-to-build-a-professional-resume-in-latex-e793d4ff4a5' target='_blank'> here </a> supplements the use of this template.
+The article <a href='https://medium.com/@sohitmiglani/a-very-easy-technique-to-build-a-professional-resume-in-latex-e793d4ff4a5' target='_blank'> here </a> supplements the use of the Resume Template.
 
-<a href='https://www.youtube.com/watch?v=ZsPhuMMISZM' target='_blank'>
-  This video </a> is a walkthrough of customizing the template.
+The article <a href='https://medium.com/@sohitmiglani/three-simple-steps-to-write-a-professional-assignment-in-latex-b9ddc2efbbd4' target='_blank'> here </a> supplements the use of the Assignment Template.
